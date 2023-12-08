@@ -57,8 +57,8 @@ The aim of the Arduino-based Ultrasonic Radar Detector project is to develop an 
 
 - Attach the VCC pin of the HC-SR04 to the 5V output on the Arduino.
 - Connect the GND pin of the HC-SR04 to the GND on the Arduino.
-- Connect the Trig pin of the HC-SR04 to a digital pin on the Arduino (e.g., pin 2).
-- Connect the Echo pin of the HC-SR04 to another digital pin on the Arduino (e.g., pin 3).
+- Connect the Trig pin of the HC-SR04 to a digital pin on the Arduino.
+- Connect the Echo pin of the HC-SR04 to another digital pin on the Arduino.
 
 ####  2. Attaching a Servo Motor:
 
