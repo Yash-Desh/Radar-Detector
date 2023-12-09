@@ -40,6 +40,11 @@ The aim of the Arduino-based Ultrasonic Radar Detector project is to develop an 
 - Bread board
 - Jumper wires
 
+### Details of HC-SR04 Ultrasonic Sensor
+- Detection Range : 2cm to 400cm
+- Measuring Angle : 30 degrees
+
+
 ### Tech Stack
 - Processing Java
 - C++
