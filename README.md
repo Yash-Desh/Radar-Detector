@@ -51,7 +51,7 @@ The aim of the Arduino-based Ultrasonic Radar Detector project is to develop an 
 
 ## Theory and Approach
 
-## Build process
+### Build process
 
 #### 1. Connect the HC-SR04 to Arduino:
 
